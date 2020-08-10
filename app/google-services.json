@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "544272901121",
+    "firebase_url": "https://flash-wink.firebaseio.com",
+    "project_id": "flash-wink",
+    "storage_bucket": "flash-wink.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544272901121:android:1ab2b500d6aa1bff",
+        "android_client_info": {
+          "package_name": "com.harshith.flashwink"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "544272901121-jblm116n5evqlgdnfhpmh3kj1heator6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBB6kdeOWzV-s1DDw2zRErQzjbUJhpEjHQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
